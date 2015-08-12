@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/skalera/ruby_vcloud_sdk.svg)](https://travis-ci.org/skalera/ruby_vcloud_sdk)
+
 ## Ruby VCloud SDK is a gem to simplify making vCloud Director API calls.
 Copyright (c) VMware, Inc.
 
